@@ -1,0 +1,18 @@
+/* Styles go here */
+h1{
+  color:black;
+  background-color:purple;
+
+}
+div{
+  background-color: yellow;
+  color: black;
+  border:5px solid black;
+  margin: 20px;
+  padding:50px;
+  
+  
+}
+body{
+  background-color: pink;
+}
